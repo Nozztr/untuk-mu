@@ -7,7 +7,7 @@
 ### 🔗 Akses Tautan
 Klik tombol di bawah ini untuk membuka halaman:
 
-[![Buka Website](https://img.shields.io/badge/Klik_Disini-Buka_Tautan-pink?style=for-the-badge&logo=heartbeat)](https://nozz7z.github.io/untuk-mu/)
+[![Buka Website](https://img.shields.io/badge/Klik_Disini-Buka_Tautan-pink?style=for-the-badge&logo=heartbeat)](https://nozztr.github.io/untuk-mu/)
 
 ---
 
