@@ -1,9 +1,23 @@
-# untuk-mu
-tembak cewek online **anti gagal**
+# 💌 Untuk-Mu: Tembak Cewek Online
 
-# Page
-Klik Untuk Membuka Tautan
-[untuk-mu](https://nozz7z.github.io/untuk-mu/)
+> Cara paling unik dan berkesan untuk menyatakan perasaan secara digital. **Anti-gagal!** 🚀
 
-# Credits
-Code Di Buat Oleh **NozzTR**
+---
+
+### 🔗 Akses Tautan
+Klik tombol di bawah ini untuk membuka halaman:
+
+[![Buka Website](https://img.shields.io/badge/Klik_Disini-Buka_Tautan-pink?style=for-the-badge&logo=heartbeat)](https://nozz7z.github.io/untuk-mu/)
+
+---
+
+### ✨ Fitur Utama
+* **User Interface Cantik:** Desain yang ramah di mata dan penuh perasaan.
+* **Interaktif:** Memberikan pengalaman yang berbeda dari sekadar chat biasa.
+* **Simple & Fast:** Ringan diakses dari perangkat apapun.
+
+### 🛠️ Credits
+Dibuat dengan penuh dedikasi oleh [**Nozztr**](https://github.com/nozztr/untuk-mu)
+
+---
+*Gunakan dengan bijak, semoga berhasil! 💖*
